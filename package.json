@@ -1,0 +1,17 @@
+{
+  "name": "rokuums",
+  "version": "1.0.0",
+  "description": "temp ums for roku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "dyk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
